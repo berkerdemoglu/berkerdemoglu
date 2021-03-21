@@ -18,3 +18,4 @@
 ### Stats!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=berkerdemoglu&theme=dark&show_icons=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berkerdemoglu)
