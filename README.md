@@ -1,4 +1,4 @@
-### You have reached berkerdemoglu's profile.
+### You have reached berkerdemoglu's profile!
 
 - 🔭 I’m currently working on a markdown to html converter.
 - 🌱 I’m currently learning Java.
@@ -8,4 +8,4 @@
 - 📫 How to reach me: [gmail](berkerdemoglu1120@gmail.com)
 - 🖥️ My organization: [Replars Production](https://github.com/Replars-Production)
 - ⚡ Fun fact: Blue Jays Fan!
--->
+- 
