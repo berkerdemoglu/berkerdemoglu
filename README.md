@@ -14,3 +14,7 @@
 ![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
 ![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png)
 ![JavaFx](https://raw.githubusercontent.com/github/explore/main/topics/javafx/javafx.png)
+
+### Stats!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=berkerdemoglu&theme=dark&show_icons=true&count_private=true)
