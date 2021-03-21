@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### You have reached berkerdemoglu's profile.
 
 - 🔭 I’m currently working on a markdown to html converter.
 - 🌱 I’m currently learning Java.
@@ -8,5 +6,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my .md to .html converter :)
 - 💬 Ask me about baseball and coding!
 - 📫 How to reach me: [gmail](berkerdemoglu1120@gmail.com)
+- 🖥️ My organization: [Replars Production](https://github.com/Replars-Production)
 - ⚡ Fun fact: Blue Jays Fan!
 -->
