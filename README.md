@@ -11,9 +11,9 @@
 - ⚡ Fun fact: Blue Jays Fan!
 
 ### Projects
-- Hangman [Hangman](https://github.com/berkerdemoglu/md-2-html)
-- DataVisualysis [DataVisualysis](https://github.com/berkerdemoglu/DataVisualysis)
-- CovidResults [CovidResults](https://github.com/berkerdemoglu/CovidResults)
+- [Hangman](https://github.com/berkerdemoglu/md-2-html)
+- [DataVisualysis](https://github.com/berkerdemoglu/DataVisualysis)
+- [CovidResults](https://github.com/berkerdemoglu/CovidResults)
 
 ### Hobbies
 ![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
