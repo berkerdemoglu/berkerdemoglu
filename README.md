@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a markdown to html converter.
 - 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on a Python or Java GUI related project.
+- 👯 I’m looking to collaborate on a Python application or Java GUI related project.
 - 🤔 I’m looking for help with my .md to .html converter :)
 - 💬 Ask me about baseball and coding!
 - 📫 How to reach me: [My Mail](mailto:berkerdemoglu1120@gmail.com)
