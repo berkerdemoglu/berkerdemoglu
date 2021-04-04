@@ -11,10 +11,10 @@
 - ⚡ Fun fact: Blue Jays Fan!
 
 ### Projects
-- [Hangman](https://github.com/berkerdemoglu/Hangman)
-- [DataVisualysis](https://github.com/berkerdemoglu/DataVisualysis)
-- [CovidResults](https://github.com/berkerdemoglu/CovidResults)
-- [md-2-html](https://github.com/berkerdemoglu/md-2-html)
+- [Hangman](https://github.com/berkerdemoglu/Hangman): The classic Hangman game in Java.
+- [DataVisualysis](https://github.com/berkerdemoglu/DataVisualysis): A simple data analyzing and visualizing library.
+- [CovidResults](https://github.com/berkerdemoglu/CovidResults): COVID-19 results from March to October for Turkey.
+- [md-2-html](https://github.com/berkerdemoglu/md-2-html): A Markdown to HTML converter built in Python.
 
 ### Hobbies
 ![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
