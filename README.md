@@ -12,14 +12,17 @@
 
 ### Projects
 - [Hangman](https://github.com/berkerdemoglu/Hangman): The classic Hangman game in Java.
-- [DataVisualysis](https://github.com/berkerdemoglu/DataVisualysis): A simple data analyzing and visualizing library.
-- [CovidResults](https://github.com/berkerdemoglu/CovidResults): COVID-19 results from March to October for Turkey.
-- [md-2-html](https://github.com/berkerdemoglu/md-2-html): A Markdown to HTML converter built in Python.
+- [DataVisualysis](https://github.com/berkerdemoglu/DataVisualysis): A data analyzing and visualizing library that simplifies most things.
+- [CovidResults](https://github.com/berkerdemoglu/CovidResults): COVID-19 results of Turkey from March to October.
+- [md-2-html](https://github.com/berkerdemoglu/md-2-html): A Markdown to HTML converter in Python.
+- [3D Engine](https://github.com/berkerdemoglu/My3DEngine): A 3D engine from scratch in Java.
 
 ### Hobbies
-![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png)
-![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png)
-![JavaFx](https://raw.githubusercontent.com/github/explore/main/topics/javafx/javafx.png)
+![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png?raw=true)
+![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png?raw=true)
+![HTML](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png?raw=true)
+![CSS](https://github.com/github/explore/blob/main/topics/css/css.png?raw=true)
+![Django](https://github.com/github/explore/blob/main/topics/django/django.png?raw=true)
 
 ### Stats!
 
