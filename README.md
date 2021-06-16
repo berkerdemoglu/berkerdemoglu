@@ -1,7 +1,7 @@
 ### You have reached berkerdemoglu's profile!
 ![Python-Java](https://img.shields.io/badge/Python-Java-blue)
 
-- 🔭 I’m currently working on making a website for myself.
+- 🔭 I’m currently working on a chess application, using Python.
 - 🌱 I’m currently learning to make more complex websites with Django.
 - 👯 I’m looking to collaborate on a Python application or a Java GUI-related project.
 - 💬 Ask me about baseball and programming in general!
