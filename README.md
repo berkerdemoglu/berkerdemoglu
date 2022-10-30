@@ -1,12 +1,10 @@
 ### You have reached berkerdemoglu's profile!
 ![Python-Java](https://img.shields.io/badge/Python-Java-blue)
 
-- 🔭 I’m currently working on a chess application, using Python.
-- 🌱 I’m currently learning to make more complex websites with Django.
-- 👯 I’m looking to collaborate on a Python application or a Java GUI-related project.
+- 🔭 I’m currently working on a chess application in Python.
+- 👯 I’m looking to collaborate on a Python or a Java project.
 - 💬 Ask me about baseball and programming in general!
-- 📫 How to reach me: [My Mail](mailto:berkerdemoglu1120@gmail.com)
-- ⚡ Fun fact: Blue Jays Fan!
+- 📫 Contact me: [My Mail](mailto:berkerdemoglu1120@gmail.com)
 
 ### Projects
 - [Chess](https://github.com/berkerdemoglu/Chess): A chess application written in Python using the pygame library.
