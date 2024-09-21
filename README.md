@@ -1,26 +1,15 @@
-### You have reached berkerdemoglu's profile!
-![Python-Java](https://img.shields.io/badge/Python-Java-blue)
+### berkerdemoglu's profile
+![Python-Django](https://img.shields.io/badge/Python-Django-blue)
+![C-Java](https://img.shields.io/badge/C-Java-blue)
 
-- 🔭 I’m currently working on a chess application in Python.
-- 👯 I’m looking to collaborate on a Python or a Java project.
-- 💬 Ask me about baseball and programming in general!
-- 📫 Contact me: [My Mail](mailto:berkerdemoglu1120@gmail.com)
+- 🔭 I’m currently working on a TODO app for university students using Django: [Unitodos](https://github.com/berkerdemoglu/unitodos)
+- 📫 Contact me: [My Mail](mailto:berk.erdemoglu@tum.de)
 
 ### Projects
 - [Chess](https://github.com/berkerdemoglu/Chess): A chess application written in Python using the pygame library.
-- [3D Engine](https://github.com/berkerdemoglu/My3DEngine): A 3D engine from scratch in Java.
-- [Hangman](https://github.com/berkerdemoglu/Hangman): The classic Hangman game in Java.
-- [DataVisualysis](https://github.com/berkerdemoglu/DataVisualysis): A data analyzing and visualizing library that simplifies most things.
-- [CovidResults](https://github.com/berkerdemoglu/CovidResults): COVID-19 results of Turkey from March to October.
+- [CSR Matrix Multiplication](https://github.com/berkerdemoglu/gra_project): A CSR matrix multiplication CLI-app written in C.
+- [Baseball Manager](https://github.com/berkerdemoglu/baseball_manager): A Django web app used to manage your baseball team.
 
-### Hobbies
-![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png?raw=true)
-![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png?raw=true)
-![HTML](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png?raw=true)
-![CSS](https://github.com/github/explore/blob/main/topics/css/css.png?raw=true)
-![Django](https://github.com/github/explore/blob/main/topics/django/django.png?raw=true)
-
-### Stats!
-
+### Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=berkerdemoglu&theme=dark&show_icons=true&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berkerdemoglu)
