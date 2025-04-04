@@ -7,7 +7,7 @@
 
 ### Projects
 - [Chess](https://github.com/berkerdemoglu/Chess): A chess application written in Python using the pygame library.
-- [CSR Matrix Multiplication](https://github.com/berkerdemoglu/gra_project): A CSR matrix multiplication CLI-app written in C.
+- [CSR Matrix Multiplication](https://github.com/berkerdemoglu/csr_matrix_multiplication): A CSR matrix multiplication CLI-app written in C.
 - [Baseball Manager](https://github.com/berkerdemoglu/baseball_manager): A Django web app used to manage your baseball team.
 
 ### Stats
